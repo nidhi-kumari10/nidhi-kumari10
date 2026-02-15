@@ -19,7 +19,7 @@ My focus areas include Full Stack Development (MERN) and Deep Learning-based sol
 ## 🎓 Education
 
 B.Tech in Computer Science and Information Technology (3rd Year)  
-Kiet deem to be University, India
+Kiet deem to be University, Ghaziabad, India
 
 
 ## 🚀 Projects

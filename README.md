@@ -88,7 +88,7 @@ Kiet deem to be University, Ghaziabad, India
 ## 📫 Connect With Me
 
 - 📧 Email: nidhibyahut8@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/kumari-nidhi-csit 
+- 💼 LinkedIn: https://in.linkedin.com/in/kumari-nidhi-csit
 - 💻 GitHub: https://github.com/nidhi-kumari10
 
 ---

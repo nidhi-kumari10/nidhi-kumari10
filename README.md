@@ -10,7 +10,7 @@
 
 ## 👩‍💻 Professional Summary
 
-I am a 3rd-year Computer Science student with a strong foundation in software development and machine learning.  
+I am a 4th-year Computer Science student with a strong foundation in software development and machine learning.  
 I enjoy building scalable web applications and AI-driven systems that solve real-world problems.
 
 My focus areas include Full Stack Development (MERN) and Deep Learning-based solutions.

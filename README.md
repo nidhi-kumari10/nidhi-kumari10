@@ -2,7 +2,7 @@
 
 ## Kumari Nidhi
 
-🎓 3rd Year B.Tech Student – Computer Science and Information Technology
+🎓 4th Year B.Tech Student – Computer Science and Information Technology
 💻 Full Stack Developer | Machine Learning Enthusiast  
 📍 India  
 
